@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/vojtechponrt/Documents/ALG/ALG/HW1/hw1'
+relocations:     []
+...
